@@ -55,7 +55,7 @@
     + 해결 : 추가 IP 발급받아 설정 후 중계 서버 연동을 마침
 
 #### 링크
-<a href="https://www.markany.com/products/mobile-protection/aegis-safer/">제품 링크</a>
+<a href="https://www.markany.com/products/mobile-protection/aegis-safer/">제품 링크</a><br>
 <a href="https://itscc.kr/certprod/view.do?product_id=1245">CC 인증 정보</a>
 
 ## 프로젝트【일본】
