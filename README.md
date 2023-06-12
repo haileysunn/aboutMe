@@ -1,3 +1,6 @@
+# 기본 이력서
+[기본 이력서.pdf](https://github.com/haileysunn/aboutMe/files/11718943/_20230612.pdf)
+
 # 경력기술서
 제가 참여해왔던 프로젝트를 소개하겠습니다.
 
