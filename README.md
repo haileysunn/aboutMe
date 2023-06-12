@@ -52,7 +52,6 @@
     + 해결 : 추가 IP 발급받아 설정 후 중계 서버 연동을 마침
 
 #### 링크
-
 <a href="https://www.markany.com/products/mobile-protection/aegis-safer/">제품 링크</a>
 
 ## 프로젝트【일본】
@@ -152,6 +151,7 @@ GitBlog(GitHub Page)란 GitHub에서 제공하는 정적 웹사이트 호스팅 
 - 인터넷 강의를 통해 기초 지식을 얻으며 만들어 볼 수 있었음
 
 #### 링크
+<a href="https://github.com/haileysunn/haileysunn.github.io">Git Repogitory</a><br>
 <a href="https://haileysunn.github.io/">블로그 링크</a>
 
 <br>
@@ -177,6 +177,10 @@ GitBlog(GitHub Page)란 GitHub에서 제공하는 정적 웹사이트 호스팅 
 #### 개인 성과
 - 스스로 처음부터 지금까지 하나하나 기능을 구현한 점에 뿌듯함이 큼
 - 유저(지인)에게 직접 필요한 기능을 확인받고 실제로 구현해서 제공하는 기쁨도 큼
+
+#### 링크
+<a href="https://github.com/haileysunn/mydiscordbot">Git - 서버 초기 설정</a><br>
+<a href="https://github.com/haileysunn/lostark-info-bot">Git - 소스코드(구버전)</a>
 
 #### Screenshot
 ![image](https://github.com/haileysunn/aboutMe/assets/97089773/b0ddfd90-828b-4038-bcc6-4aa384f11b53)<br>
