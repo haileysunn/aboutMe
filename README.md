@@ -56,6 +56,7 @@
 
 #### 링크
 <a href="https://www.markany.com/products/mobile-protection/aegis-safer/">제품 링크</a>
+<a href="https://itscc.kr/certprod/view.do?product_id=1245">CC 인증 정보</a>
 
 ## 프로젝트【일본】
 
